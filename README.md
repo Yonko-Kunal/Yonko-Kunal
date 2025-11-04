@@ -1,21 +1,8 @@
 <h1 align="center">Hi, I'm Kunal</h1>
 <h3 align="center">BCA graduate with a strong foundation in front-end web development and hands-on experience building responsive, user-centric applications using React, JavaScript, and Firebase. Proficient in leveraging AI tools to accelerate development workflows and improve efficiency. Passionate about clean code, modern web technologies, and continuous learning. Recognized for rapid learning, collaboration, and delivering real-world projects independently.</h3>
 
-- 🔭 I’m currently working on **ChatLLM**
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip](https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip)
-
-- 💬 Ask me about **React, Firebase, Python, Vite**
-
-- 📫 How to reach me **https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip**
-
-- 📄 Know about my experiences [https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip](https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="docker" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="express" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="figma" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="firebase" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="framer" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="javascript" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="mongodb" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="nodejs" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="postgresql" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="postman" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yonko-Kunal/Yonko-Kunal/main/septcentenary/Yonko-Kunal.zip" alt="python" width="40" height="40"/> </a> </p>
+
