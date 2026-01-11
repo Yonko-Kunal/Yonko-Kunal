@@ -1,5 +1,5 @@
 # About Me:
-Hey, I’m Kunal. I build full-stack projects with Next.js, JavaScript, Firebase, and Node.js.<br>I’ve shipped chatbots, e-commerce flows, MVPs, and a bunch of UI/animation experiments.<br>Right now I’m focused on making cleaner, faster builds and exploring better ways to ship AI-powered features.
+UI/UX-focused Frontend Developer with hands-on experience designing and building user-centric web interfaces. Skilled in translating user flows and layouts into clean, responsive UI. Strong understanding of usability, visual hierarchy, and developer-friendly design systems. Have a keen eye for design and committed to continuous learning.
 
 
 ## Socials:
